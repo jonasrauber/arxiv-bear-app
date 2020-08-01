@@ -100,4 +100,4 @@ I wish a single step would be sufficient, but the whole process is actually real
 
 ## License
 
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/.
