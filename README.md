@@ -97,3 +97,7 @@ And you can use all the other awesome features of Bear, such as cross-referencin
 5. ⌘V
 
 I wish a single step would be sufficient, but the whole process is actually really fast once you get used to it.
+
+## License
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
