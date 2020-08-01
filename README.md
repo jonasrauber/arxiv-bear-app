@@ -55,8 +55,6 @@ var url = 'bear:/' + `/x-callback-url/search?term=${encodeURIComponent(document.
 window.location = url;
 ```
 
-<a href="javascript:(function(){var text = `\n#phd/publication\n\n/${document.querySelector(%27.authors%27).innerText}/\n\n[${document.title.replace(%22[%22,%22%22).replace(%22]%22,%22%22)}](${window.location.href})\n\n## Notes\n* `; var url = %27bear:/%27 + `/x-callback-url/search?term=${encodeURIComponent(document.querySelector(%27.title%27).innerText)}`; (function (text) { var node = document.createElement(%27textarea%27); var selection = document.getSelection(); node.textContent = text; document.body.appendChild(node); selection.removeAllRanges(); node.select(); document.execCommand(%27copy%27); selection.removeAllRanges(); document.body.removeChild(node); })(text); window.location = url;})();">Bear</a>
-
 ## 2. Creating the Bookmarklet
 
 Copy the template with all your changes to a bookmarklet generator.
