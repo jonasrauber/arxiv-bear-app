@@ -85,7 +85,7 @@ It will open Bear for you and search for the paper title.
 This let's you check whether you already have written down some notes for this paper.
 If not, you can simply presss ⌘N to create a new note with the correct title.
 Finally, you can press ⌘V to paste the note content created from the template above and automatically added to your clipboard.
-No you can write down some notes for the paper.
+Now you can write down some notes for the paper.
 And you can use all the other awesome features of Bear, such as cross-referencing other notes.
 
 ## Summary: How to Use the Bookmarklet
